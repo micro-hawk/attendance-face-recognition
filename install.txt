@@ -1,0 +1,11 @@
+First open the terminal or command line in the IDE.Then write the following code.
+
+python -m venv env
+Then activate the enviroment using the code below for windows.
+
+.\env\Scripts\activate
+
+
+pip install -r requirements.txt
+
+python main.py
